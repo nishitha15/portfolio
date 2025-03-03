@@ -2,9 +2,9 @@
 
 **🚀 Data Engineer | Big Data | Cloud | ETL**  
 📍 Denton, Texas | 📧 [nishithab16@gmail.com](mailto:nishithab16@gmail.com)  
-[![LinkedIn](https://www.linkedin.com/in/nishitha-bai-b40115352/)](Your_LinkedIn_URL)  
-[![GitHub](https://github.com/nishitha15)](Your_GitHub_URL)  
-[![Medium](https://medium.com/@nishithab16)](Your_Medium_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nishitha-bai-b40115352/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](https://github.com/nishitha15)  
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](https://medium.com/@nishithab16) 
 
 ---
 
@@ -27,7 +27,9 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 - Implemented **real-time data streaming solutions** using *Kafka and GCP services*.  
 - Optimized **query performance in BigQuery**, reducing execution time and cost.
 - Designed and developed **data lake architectures** for structured and unstructured data.  
-- Automated **data auditing frameworks** to ensure compliance and data integrity. 
+- Automated **data auditing frameworks** to ensure compliance and data integrity.
+- Developed **event-driven data pipelines** using *Google Cloud Functions and Cloud Run*.  
+- Implemented **role-based access controls (RBAC)** and encryption policies for data security.
 
 ### 🔹 Data Engineer II | Fannie Mae *(Sept 2022 – Dec 2023)*  
 - Built **serverless data applications** using *AWS Lambda, API Gateway, and Kinesis*.  
@@ -35,12 +37,16 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 - Created **interactive Power BI dashboards** for business intelligence.
 - Designed **streaming data pipelines** for real-time analytics.  
 - Automated **data quality validation** using AWS Lambda and Glue Data Catalog.
+- Developed **multi-region disaster recovery strategies** to ensure high availability.  
+- Optimized **AWS Glue jobs** to improve data processing efficiency and reduce costs.  
 
 ### 🔹 Data Engineer I | Disney *(Oct 2020 – July 2022)*  
 - Designed **Azure-based ETL workflows** with *Data Factory and Synapse Analytics*.  
 - Built **secure and scalable** data pipelines using *Power BI and SQL optimizations*.
 - Implemented **data security protocols** using IAM policies and access controls.  
-- Developed **real-time reporting solutions** with Power BI and Azure Synapse.   
+- Developed **real-time reporting solutions** with Power BI and Azure Synapse.
+- Integrated **Azure Monitor and Log Analytics** for proactive monitoring of data pipelines.  
+- Implemented **data lineage tracking** using *Azure Data Catalog* to enhance governance. 
 
 ---
 
@@ -60,11 +66,11 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](Your_LinkedIn_URL)  
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](Your_GitHub_URL)  
-[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](Your_Medium_URL)  
+ 
 📧 *Email:* [nishithab16@gmail.com](mailto:nishithab16@gmail.com)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nishitha-bai-b40115352/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](https://github.com/nishitha15)  
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](https://medium.com/@nishithab16)
 ---
 
 🚀 *Let's build something amazing together!*
