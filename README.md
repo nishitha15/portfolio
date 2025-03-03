@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nishitha-bai-b40115352/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](https://github.com/nishitha15)  
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](https://medium.com/@nishithab16) 
+ [![Resume](https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Nishi_Data_Engineer.docx)
 
 ---
 
