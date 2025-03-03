@@ -1,48 +1,69 @@
-# Data Engineer
+# 👋 Hi, I'm Bondili Nishitha Bai
 
-**#About Me**
+**🚀 Data Engineer | Big Data | Cloud | ETL**  
+📍 Denton, Texas | 📧 [nishithab16@gmail.com](mailto:nishithab16@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](Your_LinkedIn_URL)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](Your_GitHub_URL)  
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](Your_Medium_URL)  
 
-I'm a Data Engineer with 6 years of experience building and optimizing ETL pipelines, data architectures, and big data solutions across AWS, Azure, and GCP. I have hands-on expertise in Apache Spark (PySpark, Scala), Hadoop, and Kafka, handling large-scale data processing efficiently. I specialize in data modeling, warehousing, and performance tuning using Snowflake, Redshift, and Synapse Analytics. I’ve worked extensively with Apache Airflow, Databricks, and cloud-native data services to streamline workflows and enable real-time analytics. My core skills include SQL, Python, and Scala, with a strong focus on data transformation and automation. I also have experience with CI/CD pipelines, DevOps practices, and containerization (Docker, Kubernetes). I enjoy collaborating with teams to build scalable, cost-effective data solutions and leverage cloud and big data technologies to power business intelligence and analytics.
+---
 
-**Technical Expertise**
-•	Programming: Python, SQL, Bash, Shell scripting
-•	Frameworks: Databricks, Snowflake, Airflow
-•	Database: PostgreSQL, Amazon Redshift, Oracle, MySQL, MongoDB	 
-•	API: RESTful API Design, API Gateway, MuleSoft API.
-•	Data Integration: AWS Glue, Apache NiFi, Informatica, Azure Data Factory, Cloud Data Fusion	 	•	⁠Cloud Platforms: AWS (S3, Redshift, Glue, Lambda, Athena, EMR, Kinesis), Azure (ADF, Synapse, Data Lake), GCP (BigQuery, Dataflow, Cloud Composer, Pub/Sub)	 
-•	⁠Data Modeling: Normalization, Star Schema, Snowflake Schema
-•	⁠Tools: Git, Jenkins, Docker, Kubernetes, Jira, 
-•	⁠Testing: Unit Testing, Integration Testing, Performance Tuning
+## 👨‍💻 About Me  
+I am a **Data Engineer** with over **6 years** of experience designing, developing, and optimizing **big data pipelines** and **cloud-based ETL solutions**. My expertise spans across **AWS, Azure, GCP, Apache Spark, Kafka, and SQL**, focusing on **scalability, automation, and real-time analytics**.  
 
-# Professional Experience
+💡 Passionate about **big data, cloud computing, and analytics** to drive impactful business solutions.  
 
-**Data Engineer II
-Lowes, Charlotte
-January 2024- Present**
-•	Developed and implemented automated testing frameworks using Test-Driven Development (TDD) practices, ensuring high-quality GCP-based data solutions met business requirements.
-•	Designed and optimized data architectures on Google Cloud Storage and BigQuery, enabling efficient storage, retrieval, and processing of large-scale datasets for analytics.
-•	Built and managed data pipelines using Apache Beam with Dataflow, automating data ingestion, transformation, and processing for real-time and batch workflows.
-•	Implemented streaming data ingestion solutions using Pub/Sub and Dataflow, reducing data latency and enabling real-time analytics for faster decision-making.
-•	Developed scalable ETL workflows using Cloud Data Fusion and Dataflow, ensuring seamless extraction, transformation, and loading of structured and unstructured data.
-•	Developed a metadata-driven ETL framework to dynamically process multiple datasets, reducing manual effort and increasing pipeline scalability.
-•	Optimized query performance in BigQuery, leveraging partitioning, clustering, and materialized views, reducing query execution time and cost.
-•	Ensured data security and governance compliance by implementing IAM policies, encryption techniques, and VPC Service Controls, protecting sensitive information across GCP environments.
-•	Designed and optimized data warehouses in BigQuery, improving storage efficiency and analytical performance for business intelligence and reporting.
-•	Automated ETL workflows using Apache Airflow with Cloud Composer, ensuring efficient orchestration of data pipelines and timely data availability.
+🔹 **Cloud & Big Data:** AWS (S3, Redshift, Glue, Lambda), Azure (ADF, Synapse, Data Lake), GCP (BigQuery, Dataflow, Pub/Sub)  
+🔹 **Database & ETL:** PostgreSQL, Oracle, DynamoDB, Snowflake, Informatica, Apache NiFi  
+🔹 **Programming & Analytics:** Python, PySpark, Scala, SQL, Power BI, Tableau  
+🔹 **DevOps & CI/CD:** Docker, Kubernetes, Terraform, Jenkins, Git  
 
-**Data Engineer II
-Fannie Mae, Reston, VA
-September 2022- Dec 2023**
-•	Optimized complex SQL queries in Amazon Redshift and RDS, improving query execution speed and reducing computational costs through indexing, partitioning, and query tuning.
-•	Built and maintained ETL workflows using AWS Glue, enabling seamless data integration, transformation, and automation across AWS services.
-•	Developed automated data pipelines leveraging AWS Data Pipeline and AWS Lambda, streamlining data movement and reducing manual intervention.
-•	Engineered and optimized data warehouse solutions using Amazon Redshift, enhancing data storage, retrieval, and analytical performance.
-•	Created dynamic dashboards in Power BI, visualizing business KPIs and performance metrics to support data-driven decision-making.
-•	Optimized data partitioning and indexing strategies in Amazon Redshift, improving query performance and minimizing data retrieval times.
-•	Automated data validation processes using AWS Lambda, ensuring data accuracy, compliance, and reducing errors in reporting.
-•	Integrated real-time data processing using AWS Kinesis and AWS Lambda, enabling fast, scalable data ingestion and analytics.
-•	Built and deployed serverless data applications with AWS Lambda and AWS API Gateway, enhancing data accessibility and system scalability.
-•	Monitored and managed data pipelines with AWS CloudWatch, ensuring reliable performance, proactive issue detection, and system health.
+---
 
+## 💼 Professional Experience  
 
-	 
+### 🔹 Data Engineer II | Lowe’s *(Jan 2024 – Present)*  
+- Developed **ETL pipelines** with *Google Cloud Dataflow, BigQuery, and Pub/Sub*.  
+- Implemented **real-time data streaming solutions** using *Kafka and GCP services*.  
+- Optimized **query performance in BigQuery**, reducing execution time and cost.  
+
+### 🔹 Data Engineer II | Fannie Mae *(Sept 2022 – Dec 2023)*  
+- Built **serverless data applications** using *AWS Lambda, API Gateway, and Kinesis*.  
+- Developed **data warehouse solutions** on *Amazon Redshift*.  
+- Created **interactive Power BI dashboards** for business intelligence.  
+
+### 🔹 Data Engineer I | Disney *(Oct 2020 – July 2022)*  
+- Designed **Azure-based ETL workflows** with *Data Factory and Synapse Analytics*.  
+- Built **secure and scalable** data pipelines using *Power BI and SQL optimizations*.  
+
+---
+
+## 🚀 Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Spark-FDB515?style=for-the-badge&logo=apache-spark&logoColor=black)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](Your_LinkedIn_URL)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](Your_GitHub_URL)  
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](Your_Medium_URL)  
+📧 *Email:* [nishithab16@gmail.com](mailto:nishithab16@gmail.com)  
+
+---
+
+🚀 *Let's build something amazing together!*
