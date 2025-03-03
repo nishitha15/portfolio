@@ -32,6 +32,8 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 - Automated **data auditing frameworks** to ensure compliance and data integrity.
 - Developed **event-driven data pipelines** using *Google Cloud Functions and Cloud Run*.  
 - Implemented **role-based access controls (RBAC)** and encryption policies for data security.
+- Designed **self-healing data pipelines** that automatically retry and log failures for debugging.  
+- Improved **data lineage tracking** using Google Cloud Data Catalog for governance.
 
 ### 🔹 Data Engineer II | Fannie Mae *(Sept 2022 – Dec 2023)*  
 - Built **serverless data applications** using *AWS Lambda, API Gateway, and Kinesis*.  
@@ -40,7 +42,9 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 - Designed **streaming data pipelines** for real-time analytics.  
 - Automated **data quality validation** using AWS Lambda and Glue Data Catalog.
 - Developed **multi-region disaster recovery strategies** to ensure high availability.  
-- Optimized **AWS Glue jobs** to improve data processing efficiency and reduce costs.  
+- Optimized **AWS Glue jobs** to improve data processing efficiency and reduce costs.
+- Implemented **automated anomaly detection** in financial data pipelines to enhance fraud prevention.  
+- Designed **cost-optimized ETL workflows**, reducing AWS operational expenses by 20%.   
 
 ### 🔹 Data Engineer I | Disney *(Oct 2020 – July 2022)*  
 - Designed **Azure-based ETL workflows** with *Data Factory and Synapse Analytics*.  
@@ -48,7 +52,9 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 - Implemented **data security protocols** using IAM policies and access controls.  
 - Developed **real-time reporting solutions** with Power BI and Azure Synapse.
 - Integrated **Azure Monitor and Log Analytics** for proactive monitoring of data pipelines.  
-- Implemented **data lineage tracking** using *Azure Data Catalog* to enhance governance. 
+- Implemented **data lineage tracking** using *Azure Data Catalog* to enhance governance.
+- Created **automated data reconciliation processes** to ensure accuracy in multi-source datasets.  
+- Designed **custom ML-based data validation models** to identify anomalies in data ingestion. 
 
 ---
 
@@ -64,6 +70,14 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
+
+---
+---
+
+## 🎓 Education  
+
+**Master of Science (M.S.) in Computer Science**  
+📍 *University of North Texas, Denton, TX*  
 
 ---
 
