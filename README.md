@@ -2,9 +2,9 @@
 
 **🚀 Data Engineer | Big Data | Cloud | ETL**  
 📍 Denton, Texas | 📧 [nishithab16@gmail.com](mailto:nishithab16@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](Your_LinkedIn_URL)  
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](Your_GitHub_URL)  
-[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium)](Your_Medium_URL)  
+[![LinkedIn](https://www.linkedin.com/in/nishitha-bai-b40115352/)](Your_LinkedIn_URL)  
+[![GitHub](https://github.com/nishitha15)](Your_GitHub_URL)  
+[![Medium](https://medium.com/@nishithab16)](Your_Medium_URL)  
 
 ---
 
@@ -25,16 +25,22 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 ### 🔹 Data Engineer II | Lowe’s *(Jan 2024 – Present)*  
 - Developed **ETL pipelines** with *Google Cloud Dataflow, BigQuery, and Pub/Sub*.  
 - Implemented **real-time data streaming solutions** using *Kafka and GCP services*.  
-- Optimized **query performance in BigQuery**, reducing execution time and cost.  
+- Optimized **query performance in BigQuery**, reducing execution time and cost.
+- Designed and developed **data lake architectures** for structured and unstructured data.  
+- Automated **data auditing frameworks** to ensure compliance and data integrity. 
 
 ### 🔹 Data Engineer II | Fannie Mae *(Sept 2022 – Dec 2023)*  
 - Built **serverless data applications** using *AWS Lambda, API Gateway, and Kinesis*.  
 - Developed **data warehouse solutions** on *Amazon Redshift*.  
-- Created **interactive Power BI dashboards** for business intelligence.  
+- Created **interactive Power BI dashboards** for business intelligence.
+- Designed **streaming data pipelines** for real-time analytics.  
+- Automated **data quality validation** using AWS Lambda and Glue Data Catalog.
 
 ### 🔹 Data Engineer I | Disney *(Oct 2020 – July 2022)*  
 - Designed **Azure-based ETL workflows** with *Data Factory and Synapse Analytics*.  
-- Built **secure and scalable** data pipelines using *Power BI and SQL optimizations*.  
+- Built **secure and scalable** data pipelines using *Power BI and SQL optimizations*.
+- Implemented **data security protocols** using IAM policies and access controls.  
+- Developed **real-time reporting solutions** with Power BI and Azure Synapse.   
 
 ---
 
@@ -50,11 +56,6 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)  
 
 ---
 
