@@ -35,7 +35,7 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 - Designed **self-healing data pipelines** that automatically retry and log failures for debugging.  
 - Improved **data lineage tracking** using Google Cloud Data Catalog for governance.
 
-### 🔹 Data Engineer II | Fannie Mae *(Sept 2022 – Dec 2023)*  
+### 🔹 Data Engineer II | Disney *(Sept 2022 – Dec 2023)*  
 - Built **serverless data applications** using *AWS Lambda, API Gateway, and Kinesis*.  
 - Developed **data warehouse solutions** on *Amazon Redshift*.  
 - Created **interactive Power BI dashboards** for business intelligence.
@@ -46,7 +46,7 @@ I am a **Data Engineer** with over **6 years** of experience designing, developi
 - Implemented **automated anomaly detection** in financial data pipelines to enhance fraud prevention.  
 - Designed **cost-optimized ETL workflows**, reducing AWS operational expenses by 20%.   
 
-### 🔹 Data Engineer I | Disney *(Oct 2020 – July 2022)*  
+### 🔹 Data Engineer I | Fannie Mae *(Oct 2020 – July 2022)*  
 - Designed **Azure-based ETL workflows** with *Data Factory and Synapse Analytics*.  
 - Built **secure and scalable** data pipelines using *Power BI and SQL optimizations*.
 - Implemented **data security protocols** using IAM policies and access controls.  
